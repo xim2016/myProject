@@ -1,2 +1,2 @@
 def myfun1():
-    print("Hello from fun1!")
+    print("Hello fun1!")
